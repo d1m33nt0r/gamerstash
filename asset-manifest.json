@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gamerstash/static/css/main.e73f02f2.css",
-    "main.js": "/gamerstash/static/js/main.79330c6b.js",
+    "main.js": "/gamerstash/static/js/main.dff07ae1.js",
     "static/js/488.7d9a9629.chunk.js": "/gamerstash/static/js/488.7d9a9629.chunk.js",
     "static/media/cube-racer.mp4": "/gamerstash/static/media/cube-racer.f8e066ad6d0a900495d2.mp4",
     "static/media/cup-force.mp4": "/gamerstash/static/media/cup-force.c7d1c1928f72f06d643c.mp4",
@@ -9,11 +9,11 @@
     "static/media/CupForceIcon.png": "/gamerstash/static/media/CupForceIcon.6d64bdee50b83e75fe42.png",
     "index.html": "/gamerstash/index.html",
     "main.e73f02f2.css.map": "/gamerstash/static/css/main.e73f02f2.css.map",
-    "main.79330c6b.js.map": "/gamerstash/static/js/main.79330c6b.js.map",
+    "main.dff07ae1.js.map": "/gamerstash/static/js/main.dff07ae1.js.map",
     "488.7d9a9629.chunk.js.map": "/gamerstash/static/js/488.7d9a9629.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e73f02f2.css",
-    "static/js/main.79330c6b.js"
+    "static/js/main.dff07ae1.js"
   ]
 }
