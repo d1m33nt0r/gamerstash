@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { Box, Typography, ThemeProvider, createTheme } from '@mui/material';
-import cupForceLogo from '../assets/CupForceIcon.png';
 
 const appViewTheme = createTheme({
     typography: {
