@@ -6,9 +6,7 @@ import GameSections from './components/GameSections';
 import theme from './components/Theme';
 import Header from './components/Header';
 import Company from './components/Company';
-import OurTeam from './components/OurTeam';
 import Footer from './components/Footer';
-import ContactForm from './components/ContactForm';
 import PrivacyPolicy from './components/PrivacyPolicy'; 
 
 const Home = () => (
