@@ -12,7 +12,7 @@ import PrivacyPolicy from './components/PrivacyPolicy';
 const Home = () => (
   <>
     <Header />
-    <Company id="company" />
+    <Company id="home" />
     <GameSections id="games" />
     <Footer />
   </>
@@ -22,7 +22,7 @@ const App = () => {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router>
+      <Router basename="/gamerstash">
         <div className="background-animation" />
         <Box
           sx={{

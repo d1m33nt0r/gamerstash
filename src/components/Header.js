@@ -4,7 +4,7 @@ import theme from './Theme';
 
 const sections = [
   {
-    id: 'company',
+    id: 'home',
     title: 'Home'
   },
   {
