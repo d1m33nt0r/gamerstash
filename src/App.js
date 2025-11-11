@@ -22,7 +22,7 @@ const App = () => {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Router basename="/gamerstash">
+        <Router>
         <div className="background-animation" />
         <Box
           sx={{
