@@ -1,0 +1,63 @@
+# Privacy Policy for Cup Force
+
+**Effective date: July 29, 2026**
+
+This Privacy Policy applies to the mobile game **Cup Force**, developed and published by **Dmytro Hryb**.
+
+## Information Collection
+
+Cup Force does not collect, store, process, or share any personal or sensitive user data.
+
+The Game does not use analytics, advertising, attribution, tracking, crash-reporting, or other third-party SDKs that collect user data.
+
+## Advertising
+
+Cup Force does not display advertisements and does not use advertising identifiers for tracking or advertising purposes.
+
+## Accounts
+
+Cup Force does not require users to create an account and does not collect account information.
+
+## Local Game Data
+
+Game progress and settings may be stored locally on the user’s device. This information is not transmitted to the Developer or any third party.
+
+Users can remove locally stored game data by clearing the Game’s application data or uninstalling the Game.
+
+## Third-Party Services
+
+Cup Force does not share user information with third parties.
+
+The Game is distributed through Google Play. Google may independently process certain information when users download, install, update, or interact with apps through Google Play. Such processing is governed by Google’s Privacy Policy:
+
+https://policies.google.com/privacy
+
+## Children’s Privacy
+
+Cup Force does not knowingly collect personal information from children or other users.
+
+Because the Game does not collect or transmit personal information, no personal information from children is stored by the Developer.
+
+## Data Security
+
+Cup Force does not transmit or remotely store user data. Game progress and settings may remain locally on the user’s device and are protected by the security mechanisms provided by the device and operating system.
+
+## Data Retention and Deletion
+
+The Developer does not retain user data because Cup Force does not collect or receive such data.
+
+Locally stored game progress and settings can be deleted by clearing the Game’s application data or uninstalling the Game.
+
+## Changes to This Privacy Policy
+
+This Privacy Policy may be updated if the Game’s functionality or data practices change.
+
+Any updated version will be published at the same publicly accessible URL, and the effective date at the top of this Privacy Policy will be revised.
+
+## Contact
+
+If you have questions about this Privacy Policy, contact:
+
+**Developer:** Dmytro Hryb
+**Game:** Cup Force
+**Email:** gam3rstashinfo@gmail.com
